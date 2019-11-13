@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29509.3
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FF5ToDMHBestiaryConverter", "FF5ToDMHBestiaryConverter.csproj", "{A0D57F0B-954B-4104-B584-7448FD3EC6BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FF5ToDMHBestiaryConverter", "FF5ToDMHBestiaryConverter.csproj", "{CE2BCBE8-4908-4CC3-AB44-0BC7893C34CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A0D57F0B-954B-4104-B584-7448FD3EC6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0D57F0B-954B-4104-B584-7448FD3EC6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0D57F0B-954B-4104-B584-7448FD3EC6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0D57F0B-954B-4104-B584-7448FD3EC6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2BCBE8-4908-4CC3-AB44-0BC7893C34CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2BCBE8-4908-4CC3-AB44-0BC7893C34CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2BCBE8-4908-4CC3-AB44-0BC7893C34CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2BCBE8-4908-4CC3-AB44-0BC7893C34CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A8610B7C-279F-4BD0-8B10-A1FF5E41B854}
 	EndGlobalSection
 EndGlobal
